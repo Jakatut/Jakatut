@@ -1,8 +1,9 @@
 # It's nice to see you! <img src="https://github.com/Jakatut/Jakatut/blob/main/wave.gif" width="30px">
 
-My name is Conor Macpherson. I studied at Conestoga College in Kitchener, Ontario and am currently working as a Software Developer at Tulip 🌷
-I mainly work in backend systems, but I love to get my hands into the front-end in a full-stack-ish way. Occasionally I code some home projects geared towards
-a more creative experience. Feel free to connect with me on Linkedin!
+My name is Conor Macpherson. I studied at Conestoga College in Kitchener, Ontario Canada. I'm currently working as a Software Developer at Tulip 🌷
+Mainly working in backend systems with some front-end in a full-stack way, I love learning new technologies and approaches to building software.
+
+Occasionally I code some home projects geared towards a more creative experience or to solve some small problems I encounter in my day-to-day life. Feel free to connect with me on Linkedin!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conormacpherson/)
 
