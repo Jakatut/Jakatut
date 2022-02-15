@@ -1,4 +1,4 @@
-# It's nice to see you! <img src="https://github.com/Jakatut/Jakatut/blob/main/wave.gif" width="30px">
+# It's Nice to See You! <img src="https://github.com/Jakatut/Jakatut/blob/main/wave.gif" width="30px">
 
 My name is Conor Macpherson. I studied at Conestoga College in Kitchener, Ontario Canada. I'm currently working as a Software Developer at Tulip 🌷
 Mainly working in backend systems with some front-end in a full-stack way, I love learning new technologies and approaches to building software.
@@ -7,7 +7,7 @@ Occasionally I code some home projects geared towards a more creative experience
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conormacpherson/)
 
-## My technologies of choise
+## My Technologies of Choice
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
