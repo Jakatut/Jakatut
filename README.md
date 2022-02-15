@@ -31,6 +31,8 @@ Occasionally I code some home projects geared towards a more creative experience
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+I try to keep myself agnostic to any technology/language. In software development, there's hardly ever one way to solve a problem and those problems are always evolving. I pride myself in choosing languages, tools, frameworks, etc. that fit a problem or fit the ecosystem around a problem. It keeps me on my toes and I always learn something new when I switch around.
+
 ## Some tools I'm familiar with
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
