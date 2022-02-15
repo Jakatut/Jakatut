@@ -33,7 +33,7 @@ Occasionally I code some home projects geared towards a more creative experience
 
 I try to keep myself agnostic to any technology/language. In software development, there's hardly ever one way to solve a problem and those problems are always evolving. I pride myself in choosing languages, tools, frameworks, etc. that fit a problem or fit the ecosystem around a problem. It keeps me on my toes and I always learn something new when I switch around.
 
-## Some tools I'm familiar with
+## Some Tools I'm Familiar With
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
