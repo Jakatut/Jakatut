@@ -1,4 +1,4 @@
-# It's nice to see you! <img src="https://raw.githubusercontent.com/jakatut/jakatut/master/wave.gif" width="30px">
+# It's nice to see you! <img src="https://github.com/Jakatut/Jakatut/blob/main/wave.gif" width="30px">
 
 My name is Conor Macpherson. I studied at Conestoga College in Kitchener, Ontario and am currently working as a Software Developer at Tulip 🌷
 I mainly work in backend systems, but I love to get my hands into the front-end in a full-stack-ish way. Occasionally I code some home projects geared towards
