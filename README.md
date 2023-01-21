@@ -1,7 +1,7 @@
 # It's Nice to See You! <img src="https://github.com/Jakatut/Jakatut/blob/main/wave.gif" width="30px">
 
 My name is Conor Macpherson. I studied at Conestoga College in Kitchener, Ontario Canada.
-I currently work as a Software Developer at Tulip 🌷, building out our mobile PoS application for high end retailers. My day to day work mainly consists of developing back-end systems with some front-end sprinkled in.
+I currently work as a Software Design Engineer at Mattermost.
 
 I love learning new technologies and approaches to building software and love challenging projects.
 Occasionally I code some personal projects geared towards a more creative experience or to solve some small problems I encounter in my day-to-day life.
